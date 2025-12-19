@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "NEWS1734270123001",
+    "title": "New Water Supply Scheme Approved",
+    "description": "The gram panchayat has approved a new water supply scheme that will benefit over 500 families in the village. Construction to begin next month with an estimated budget of ₹15 lakhs.",
+    "level": "gram_panchayat",
+    "location": "Shivaji Nagar Gram Panchayat",
+    "priority": "high",
+    "contact": "+91 98765 43210",
+    "publishedAt": "2024-12-15T10:30:00.000Z",
+    "publishedBy": "admin",
+    "updatedAt": "2024-12-15T10:30:00.000Z"
+  },
+  {
+    "_id": "NEWS1734270123002",
+    "title": "Annual Gram Sabha Meeting on December 25",
+    "description": "The annual gram sabha meeting will be held on December 25th at 10 AM at the community hall. All villagers are requested to attend and participate in village development discussions.",
+    "level": "gram_panchayat",
+    "location": "Village Community Hall",
+    "priority": "normal",
+    "contact": "Sarpanch Office",
+    "publishedAt": "2024-12-13T09:00:00.000Z",
+    "publishedBy": "admin",
+    "updatedAt": "2024-12-13T09:00:00.000Z"
+  },
+  {
+    "_id": "NEWS1734270123003",
+    "title": "Street Light Installation Complete",
+    "description": "Installation of 50 solar-powered street lights completed in all major village roads. Inauguration ceremony scheduled for December 18th at 5 PM.",
+    "level": "gram_panchayat",
+    "location": "Main Village Roads",
+    "priority": "normal",
+    "contact": "Village Electrician",
+    "publishedAt": "2024-12-15T00:30:00.000Z",
+    "publishedBy": "admin",
+    "updatedAt": "2024-12-15T00:30:00.000Z"
+  },
+  {
+    "_id": "NEWS1734270123004",
+    "title": "Zilla Parishad Budget Session for FY 2025-26",
+    "description": "The Zilla Parishad will hold its budget session for the financial year 2025-26. Public suggestions are invited for development projects. Submit your proposals by December 30th.",
+    "level": "zilla_parishad",
+    "location": "Zilla Parishad Office, Pune",
+    "priority": "high",
+    "contact": "+91 20 2345 6789",
+    "publishedAt": "2024-12-14T09:00:00.000Z",
+    "publishedBy": "admin",
+    "updatedAt": "2024-12-14T09:00:00.000Z"
+  },
+  {
+    "_id": "NEWS1734270123005",
+    "title": "District Sports Championship 2025",
+    "description": "Registration is now open for the district-level sports championship. Events include cricket, kabaddi, athletics, volleyball, and more. Register before December 20th at your taluka sports office.",
+    "level": "district",
+    "location": "District Sports Complex, Pune",
+    "priority": "normal",
+    "contact": "sports@pune.gov.in",
+    "publishedAt": "2024-12-10T08:00:00.000Z",
+    "publishedBy": "admin",
+    "updatedAt": "2024-12-10T08:00:00.000Z"
+  },
+  {
+    "_id": "NEWS1734270123006",
+    "title": "Free Health Check-up Camp This Weekend",
+    "description": "A free health check-up camp will be organized by the district health department on December 21-22. Services include BP monitoring, diabetes screening, eye check-up, and general consultation.",
+    "level": "district",
+    "location": "Primary Health Center, Pimpri",
+    "priority": "normal",
+    "contact": "Dr. Sharma: +91 98234 56789",
+    "publishedAt": "2024-12-12T07:00:00.000Z",
+    "publishedBy": "admin",
+    "updatedAt": "2024-12-12T07:00:00.000Z"
+  },
+  {
+    "_id": "NEWS1734270123007",
+    "title": "State Road Construction Project Sanctioned",
+    "description": "The Maharashtra government has sanctioned ₹2 crore for road construction and repair in rural areas. Work will commence in January 2025 covering 25 km of village roads.",
+    "level": "state",
+    "location": "Maharashtra",
+    "priority": "high",
+    "contact": "PWD Maharashtra",
+    "publishedAt": "2024-12-11T06:00:00.000Z",
+    "publishedBy": "admin",
+    "updatedAt": "2024-12-11T06:00:00.000Z"
+  },
+  {
+    "_id": "NEWS1734270123008",
+    "title": "Agricultural Subsidy Scheme Deadline Extended",
+    "description": "The deadline for applying to the agricultural subsidy scheme has been extended to December 31st, 2024. Farmers can apply online through the state agriculture portal or visit district agriculture offices.",
+    "level": "state",
+    "location": "Maharashtra",
+    "priority": "normal",
+    "contact": "agri.maha@gov.in",
+    "publishedAt": "2024-12-09T05:00:00.000Z",
+    "publishedBy": "admin",
+    "updatedAt": "2024-12-09T05:00:00.000Z"
+  },
+  {
+    "_id": "NEWS1734270123009",
+    "title": "National Digital Literacy Mission Launched",
+    "description": "Government launches nationwide digital literacy program aimed at making 10 crore citizens digitally literate. Free training available for citizens above 18 years. Register at your nearest Common Service Center.",
+    "level": "national",
+    "location": "All India",
+    "priority": "normal",
+    "contact": "1800-3000-3468",
+    "publishedAt": "2024-12-08T04:00:00.000Z",
+    "publishedBy": "admin",
+    "updatedAt": "2024-12-08T04:00:00.000Z"
+  },
+  {
+    "_id": "NEWS1734270123010",
+    "title": "PM Awas Yojana Application Deadline Extended",
+    "description": "The last date to apply for PM Awas Yojana (Rural) has been extended to January 15, 2025. Eligible beneficiaries can apply through their respective gram panchayat offices with required documents.",
+    "level": "national",
+    "location": "India",
+    "priority": "high",
+    "contact": "pmay-rural@gov.in",
+    "publishedAt": "2024-12-07T03:00:00.000Z",
+    "publishedBy": "admin",
+    "updatedAt": "2024-12-07T03:00:00.000Z"
+  }
+]

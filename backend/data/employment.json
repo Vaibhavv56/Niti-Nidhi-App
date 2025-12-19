@@ -1,0 +1,76 @@
+{
+  "opportunities": [
+    {
+      "id": 1,
+      "title": "Anganwadi Helper",
+      "department": "Women & Child Development",
+      "type": "Government",
+      "location": "Village Level",
+      "eligibility": "8th pass or above",
+      "salary": "₹8,000 – ₹10,000 per month",
+      "lastDate": "2025-03-31",
+      "contact": "Local Anganwadi Office",
+      "description": "Assist Anganwadi worker in nutrition, childcare and record maintenance."
+    },
+    {
+      "id": 2,
+      "title": "Data Entry Operator",
+      "department": "District Office",
+      "type": "Contract",
+      "location": "Taluk Office",
+      "eligibility": "12th pass, basic computer knowledge",
+      "salary": "₹12,000 per month",
+      "lastDate": "2025-04-10",
+      "contact": "district.admin@gov.in",
+      "description": "Entry of citizen records and scheme-related data."
+    },
+    {
+      "id": 3,
+      "title": "ASHA Health Worker",
+      "department": "Health Department",
+      "type": "Government",
+      "location": "Rural Area",
+      "eligibility": "10th pass, female candidate preferred",
+      "salary": "Incentive based",
+      "lastDate": "2025-05-01",
+      "contact": "Primary Health Centre",
+      "description": "Support maternal health, vaccination awareness and community outreach."
+    },
+    {
+      "id": 4,
+      "title": "Tailoring & Stitching Work",
+      "department": "Self Employment",
+      "type": "Skill-Based",
+      "location": "Home Based",
+      "eligibility": "Basic tailoring skills",
+      "salary": "₹500 – ₹700 per day",
+      "lastDate": "Open",
+      "contact": "Self Help Group (SHG)",
+      "description": "Stitching school uniforms and garments under SHG initiative."
+    },
+    {
+      "id": 5,
+      "title": "Security Guard (Female)",
+      "department": "Private Agency",
+      "type": "Private",
+      "location": "Nearby Town",
+      "eligibility": "10th pass, physically fit",
+      "salary": "₹14,000 per month",
+      "lastDate": "2025-04-20",
+      "contact": "9876543210",
+      "description": "Day shift security work at offices and schools."
+    },
+    {
+      "id": 6,
+      "title": "Mid-Day Meal Cook",
+      "department": "Education Department",
+      "type": "Government",
+      "location": "Government School",
+      "eligibility": "Basic cooking experience",
+      "salary": "₹9,000 per month",
+      "lastDate": "2025-03-28",
+      "contact": "School Head Master",
+      "description": "Preparation of mid-day meals for school children."
+    }
+  ]
+}
