@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import {
   StyleSheet,
   Text,
@@ -14,8 +14,11 @@ import {
   Ionicons,
   MaterialCommunityIcons
 } from '@expo/vector-icons';
+import ApplicationFormScreen from './ApplicationFormScreen';
 
 const JobDetailsScreen = ({ job, onBack }) => {
+  const [showApplicationForm, setShowApplicationForm] = useState(false);
+
   const formatDate = (dateString) => {
     if (!dateString) return 'N/A';
     const date = new Date(dateString);
@@ -28,27 +31,28 @@ const JobDetailsScreen = ({ job, onBack }) => {
   };
 
   const handleApply = () => {
-    Alert.alert(
-      'Apply for Job',
-      `Do you want to apply for ${job.title}?`,
-      [
-        {
-          text: 'Cancel',
-          style: 'cancel',
-        },
-        {
-          text: 'Apply',
-          onPress: () => {
-            // Here you would typically navigate to an application form or send an API request
-            Alert.alert('Success', 'Your application has been submitted!');
-          },
-        },
-      ]
-    );
+    // Show the application form instead of alert
+    setShowApplicationForm(true);
+  };
+
+  const handleApplicationSuccess = () => {
+    // This will be called when application is successfully submitted
+    console.log('Application submitted successfully');
   };
 
   const availablePositions = job.total_positions - job.filled_positions;
   const isJobClosed = job.status === 'closed' || availablePositions <= 0;
+
+  // If application form is open, show it instead of job details
+  if (showApplicationForm) {
+    return (
+      <ApplicationFormScreen 
+        job={job}
+        onBack={() => setShowApplicationForm(false)}
+        onSuccess={handleApplicationSuccess}
+      />
+    );
+  }
 
   return (
     <SafeAreaView style={styles.container}>
