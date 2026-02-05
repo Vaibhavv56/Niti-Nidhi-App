@@ -1,5 +1,7 @@
 # 🌐 Voice-First AI Platform for Inclusive Digital Governance
 
+---
+
 ## 📘 Introduction
 
 This project is a voice-first, AI-driven digital governance platform designed to make government services and welfare schemes accessible to every citizen, regardless of literacy level, device type, or internet availability. By combining AI assistance, multilingual voice interaction, and offline-first access, the platform removes complexity from public service delivery and enables truly inclusive governance.
@@ -20,13 +22,8 @@ Existing systems are largely text-heavy, internet-dependent, and fragmented acro
 
 > 📌 *Project walkthrough and live demo*
 
-<!-- Option 1: GitHub-hosted video -->
-<video src="VIDEO_LINK_HERE" controls width="100%">
-Your browser does not support the video tag.
-</video>
-
-<!-- Option 2: External link -->
-🔗 **Demo Video Link:** [Click here to watch](VIDEO_LINK_HERE)
+🎬 **Watch Demo Video**  
+👉 https://drive.google.com/file/d/17Vqu-TPHRky-5lZ0-gEz2bclEEvoMgyV/view?usp=sharing
 
 ---
 
@@ -37,7 +34,9 @@ We propose an **AI-driven, voice-first, multi-channel digital governance platfor
 The solution operates through **two integrated access channels**:
 
 ### 🔹 Smart IVR + AI System
+
 Citizens using basic or keypad phones can access government services through a single phone call via an AI-powered multilingual IVR system. This enables users to:
+
 - Receive information on government schemes and benefits  
 - Register and track complaints  
 - Get application and service status updates  
@@ -45,8 +44,12 @@ Citizens using basic or keypad phones can access government services through a s
 
 Authorities can proactively communicate with citizens using outbound and broadcast calls for scheme alerts, deadlines, emergencies, and welfare updates. SMS acknowledgements ensure transparency by confirming registrations and status changes.
 
+---
+
 ### 🔹 User-Centric Mobile Application
+
 For smartphone users, the platform provides a simple, voice-assisted, and accessible mobile application that offers:
+
 - Multilingual voice and text interaction  
 - AI-powered chatbot support  
 - Scheme eligibility checking, application, and tracking  
@@ -62,6 +65,7 @@ By combining proactive AI assistance, unified service tracking, offline-first wo
 ## 🛠️ Key Features & Unique Selling Points (USP)
 
 ### 🔑 Key Features
+
 - Voice-assisted multilingual access across IVR, chatbot, and mobile app  
 - AI-powered chatbot for scheme guidance and grievance support  
 - Proactive scheme recommendation and eligibility detection  
@@ -71,7 +75,10 @@ By combining proactive AI assistance, unified service tracking, offline-first wo
 - Secure digital records with instant verification  
 - Local governance updates and employment notifications  
 
+---
+
 ### 🌟 Innovation & USP
+
 - **AI-Based Scheme Recommendation & Eligibility Detection**  
   Automatically analyzes user details and documents to recommend relevant schemes and determine eligibility, reducing confusion and exclusion.
 
@@ -91,10 +98,9 @@ By combining proactive AI assistance, unified service tracking, offline-first wo
 
 ## 🧩 System Architecture
 
-> 📌 *High-level system architecture illustrating IVR, mobile app, AI layer, backend services, and data flow*
-
-<!-- Architecture diagram container -->
-![System Architecture Diagram](ARCHITECTURE_DIAGRAM_LINK_HERE)
+<p align="center">
+  <img src="system_architecture.jpeg" alt="System Architecture Diagram" width="90%">
+</p>
 
 ---
 
