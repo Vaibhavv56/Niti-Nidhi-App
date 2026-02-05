@@ -2,9 +2,45 @@
 
 ## 📘 Description
 
-This project presents a voice-first, AI-driven digital governance platform aimed at making government services and welfare schemes accessible to all citizens, especially those facing digital and literacy barriers. The platform enables users to interact with government systems using multilingual voice assistance, guided workflows, and simplified interfaces that work across smartphones, basic phones, and low-connectivity environments.
+This project presents a voice-first, AI-driven digital governance platform designed to make government services and welfare schemes accessible to all citizens, especially those affected by digital, literacy, and connectivity barriers. The platform ensures inclusive access through both basic phones and smartphones, eliminating dependence on complex digital portals.
 
-By integrating AI-powered assistance, proactive service discovery, transparent grievance tracking, and offline-first access, the solution ensures that citizens can easily discover, apply for, and monitor government services without navigating complex or fragmented digital portals. The platform prioritizes inclusivity, transparency, and ease of use, transforming digital governance into a citizen-centric experience.
+The solution operates via two integrated access channels:
+
+🔹 Smart IVR + AI System
+
+Citizens without smartphones can access services using a single phone call through an AI-powered multilingual IVR system. It enables users to:
+
+Get information about government schemes and benefits
+
+Register and track complaints
+
+Receive service and application status updates
+
+Access hyperlocal news and official announcements
+
+Authorities can proactively reach citizens through outbound and broadcast calls to share scheme alerts, deadlines, emergency notifications, and welfare updates. SMS acknowledgements confirm complaint registration, application progress, and important updates, ensuring transparency and trust.
+
+🔹 User-Centric Mobile Application
+
+For smartphone users, the platform offers a simple, accessible, and voice-assisted mobile app designed for ease of use. Key features include:
+
+Multilingual voice-assisted navigation
+
+AI-powered chatbot support
+
+Scheme eligibility checking, application, and tracking
+
+Transparent grievance redressal with real-time status updates
+
+Secure digital records and verifiable documents
+
+Local governance and development updates
+
+Government job notifications and employment opportunities
+
+User-centric, low-complexity accessible design
+
+By integrating AI-powered assistance, proactive service discovery, unified tracking, offline-first workflows, and multi-channel communication, the platform removes fragmentation and complexity from public service delivery. It prioritizes inclusivity, transparency, and ease of use, transforming digital governance into a citizen-centric system that works for everyone, regardless of device, literacy level, or connectivity.
 
 ---
 
