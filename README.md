@@ -1,5 +1,16 @@
 # 🌐 Voice-First AI Platform for Inclusive Digital Governance
 
+
+## ❗ Problem Statement
+
+A large section of citizens is unable to effectively access government services and welfare schemes due to the digital divide, complex digital platforms, lack of transparency, and inefficient grievance redressal systems.
+
+This issue primarily impacts rural populations, low-literacy individuals, elderly users, economically weaker sections, and people with limited access to smartphones or reliable internet connectivity. Many eligible citizens remain unaware of welfare schemes, face difficulties in applying or tracking benefits, and experience delays or lack of response in grievance resolution.
+
+Existing solutions are largely text-heavy, internet-dependent, and fragmented across multiple portals. They often lack real-time status tracking and provide slow or ineffective grievance handling, making them inaccessible to underserved communities. These limitations contribute to missed welfare benefits, weakened trust in governance, and growing social and economic inequality, highlighting the need for a more inclusive, transparent, and accessible digital governance solution.
+
+---
+
 ## 📘 Description
 
 This project presents a voice-first, AI-driven digital governance platform designed to make government services and welfare schemes accessible to all citizens, especially those affected by digital, literacy, and connectivity barriers. The platform ensures inclusive access through both basic phones and smartphones, eliminating dependence on complex digital portals.
@@ -42,15 +53,7 @@ User-centric, low-complexity accessible design
 
 By integrating AI-powered assistance, proactive service discovery, unified tracking, offline-first workflows, and multi-channel communication, the platform removes fragmentation and complexity from public service delivery. It prioritizes inclusivity, transparency, and ease of use, transforming digital governance into a citizen-centric system that works for everyone, regardless of device, literacy level, or connectivity.
 
----
 
-## ❗ Problem Statement
-
-A large section of citizens is unable to effectively access government services and welfare schemes due to the digital divide, complex digital platforms, lack of transparency, and inefficient grievance redressal systems.
-
-This issue primarily impacts rural populations, low-literacy individuals, elderly users, economically weaker sections, and people with limited access to smartphones or reliable internet connectivity. Many eligible citizens remain unaware of welfare schemes, face difficulties in applying or tracking benefits, and experience delays or lack of response in grievance resolution.
-
-Existing solutions are largely text-heavy, internet-dependent, and fragmented across multiple portals. They often lack real-time status tracking and provide slow or ineffective grievance handling, making them inaccessible to underserved communities. These limitations contribute to missed welfare benefits, weakened trust in governance, and growing social and economic inequality, highlighting the need for a more inclusive, transparent, and accessible digital governance solution.
 
 
 ---
