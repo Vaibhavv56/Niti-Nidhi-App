@@ -1,8 +1,21 @@
-# 🌐 Voice-First AI Platform for Digital & Inclusive Governance  
-### Theme B: Digital & Inclusive Governance
+# 🌐 Voice-First AI Platform for Inclusive Digital Governance
 
-**Team Name:** DevSquad  
-**Team ID:** Aaro-250737  
+## 📘 Description
+
+This project presents a voice-first, AI-driven digital governance platform aimed at making government services and welfare schemes accessible to all citizens, especially those facing digital and literacy barriers. The platform enables users to interact with government systems using multilingual voice assistance, guided workflows, and simplified interfaces that work across smartphones, basic phones, and low-connectivity environments.
+
+By integrating AI-powered assistance, proactive service discovery, transparent grievance tracking, and offline-first access, the solution ensures that citizens can easily discover, apply for, and monitor government services without navigating complex or fragmented digital portals. The platform prioritizes inclusivity, transparency, and ease of use, transforming digital governance into a citizen-centric experience.
+
+---
+
+## ❗ Problem Statement
+
+A large section of citizens is unable to effectively access government services and welfare schemes due to the digital divide, complex digital platforms, lack of transparency, and inefficient grievance redressal systems.
+
+This issue primarily impacts rural populations, low-literacy individuals, elderly users, economically weaker sections, and people with limited access to smartphones or reliable internet connectivity. Many eligible citizens remain unaware of welfare schemes, face difficulties in applying or tracking benefits, and experience delays or lack of response in grievance resolution.
+
+Existing solutions are largely text-heavy, internet-dependent, and fragmented across multiple portals. They often lack real-time status tracking and provide slow or ineffective grievance handling, making them inaccessible to underserved communities. These limitations contribute to missed welfare benefits, weakened trust in governance, and growing social and economic inequality, highlighting the need for a more inclusive, transparent, and accessible digital governance solution.
+
 
 ---
 
